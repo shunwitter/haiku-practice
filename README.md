@@ -4,7 +4,7 @@ See App.js for the implementation.
 
 Sketch and Haiku are all you need. You can embed your animation as a React Component.
 
-# References
+## References
 
 - https://www.haiku.ai/
 - https://docs.haiku.ai/
